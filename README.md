@@ -46,8 +46,8 @@ Clone this repository and open the Jupyter notebook named `Dissertation-.ipynb`.
 
   
 # Future Work Updates
-    July 15- Successfully produced the thermodynamic computations using the **TensorFlow** framework for improved numerical performance.
-    Nov 22- Successfully computed the QCD Phase structure parameters, number density, susceptibility, and second, fourth, and sixth order taylor expansion coefficients
+- July 15- Successfully produced the thermodynamic computations using the **TensorFlow** framework for improved numerical performance.
+- Nov 22- Successfully computed the QCD Phase structure parameters, number density, susceptibility, and second, fourth, and sixth order taylor expansion coefficients
 --- 
 
 I am actively seeking **collaborators or mentors** with experience in:
